@@ -5,7 +5,7 @@ The application features a clean, user-friendly **CustomTkinter GUI**, session-b
 
 ---
 
-# Features
+## Features
 
 - Encode secret messages inside images using LSB.
 - Decode and retrieve messages hidden in image files.
@@ -16,7 +16,7 @@ The application features a clean, user-friendly **CustomTkinter GUI**, session-b
 
 ---
 
-# Installation
+## Installation
 
 Clone the repository:
 
@@ -27,7 +27,7 @@ cd Steganography-Tool-GUI-SujalKayastha_Coursework1__15381060
 
 ---
 
-# Usage
+## Usage
 
 ```bash
 python3 steganography.py #Starts the GUI tool
