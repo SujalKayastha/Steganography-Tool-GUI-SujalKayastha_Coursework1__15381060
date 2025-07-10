@@ -3,7 +3,7 @@ A Python-based GUI Steganography Tool that securely hides and extracts messages 
 
 The application features a clean, user-friendly **CustomTkinter GUI**, session-based logging, and support for common image formats such as `.png`, `.bmp`, `.jpg`, and `.jpeg`.
 
----
+
 
 ## Features
 
@@ -14,7 +14,6 @@ The application features a clean, user-friendly **CustomTkinter GUI**, session-b
 - Save extracted messages as `.txt` files.
 - Supports image formats: PNG, BMP, JPG, JPEG.
 
----
 
 ## Installation
 
@@ -25,10 +24,10 @@ git clone https://github.com/SujalKayastha/Steganography-Tool-GUI-SujalKayastha_
 cd Steganography-Tool-GUI-SujalKayastha_Coursework1__15381060
 ```
 
----
+
 
 ## Usage
 
 ```bash
 python3 steganography.py #Starts the GUI tool
-```
+
